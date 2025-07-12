@@ -94,6 +94,7 @@
 
 10.  Copy & paste this code into your main.cpp
     ````cpp
+
     #include <SDL.h>
     #include <iostream>
 
